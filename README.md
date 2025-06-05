@@ -43,9 +43,5 @@ Entusiasta del desarrollo full-stack, Computación en la nube y  DevOps. Me apas
 
 ---
 
-## 📈 Estadísticas de GitHub
-![Santiago’s GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagograciano&show_icons=true&theme=tokyonight)
-
----
 
 ¡Gracias por pasar por mi GitHub! Aquí encontrarás mis repositorios, desde proyectos académicos hasta prototipos de aplicaciones reales. Siempre busco aprender, colaborar y aportar valor.  
